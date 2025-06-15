@@ -1,7 +1,7 @@
 /* 覆盖页脚背景 */
 #footer-wrap {
   background: url(/img/footer-photo.jpg) top/cover no-repeat !important;
-  height: 200px; /* 根据图片比例调整高度 */
+  height: 150px; /* 根据图片比例调整高度 */
   padding: 2rem 0; /* 保留内容内边距 */
 }
 /* 调整文本颜色确保可读性 */
